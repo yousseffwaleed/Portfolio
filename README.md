@@ -1,6 +1,6 @@
-# 👨‍💻 Youssef Elshenawy –  Portfolio
+# 👨‍💻 Youssef Elshenawy – Portfolio
 
-Welcome! This portfolio showcases my academic and personal projects in machine learning, and RF-based sensing.
+Welcome! This portfolio showcases my academic and personal projects in machine learning and RF-based sensing.
 
 ---
 
@@ -12,7 +12,7 @@ This project explores image-based mushroom classification using various deep lea
 - Few-shot learning using Prototypical Networks
 
 📁 **Tech Stack**: TensorFlow, Keras, Python  
-🔗 [View Project on GitHub]([https://github.com/youssefwaleed/mushroom-classification](https://github.com/yousseffwaleed/ENDG-511-Project))
+🔗 [View Project on GitHub](https://github.com/youssefwaleed/mushroom-classification)
 
 ---
 
@@ -21,7 +21,7 @@ This project explores image-based mushroom classification using various deep lea
 Developed deep learning models to estimate human breathing rate from CSI data using software-defined radios. Explored 1D/2D CNNs, LSTMs, and hybrid models for signal classification.
 
 📁 **Tech Stack**: Python, TensorFlow, SDRs, Scikit-learn  
-🔗 [View Project on GitHub]([https://github.com/youssefwaleed/CapstoneProject](https://github.com/yousseffwaleed/CapstoneProject))
+🔗 [View Project on GitHub](https://github.com/youssefwaleed/CapstoneProject)
 
 ---
 
