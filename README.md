@@ -12,7 +12,8 @@ This project explores image-based mushroom classification using various deep lea
 - Few-shot learning using Prototypical Networks
 
 📁 **Tech Stack**: TensorFlow, Keras, Python  
-🔗 [View Project on GitHub](https://github.com/youssefwaleed/mushroom-classification)
+🔗 [View Project on GitHub](https://github.com/yousseffwaleed/ENDG-511-Project)
+
 
 ---
 
