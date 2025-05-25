@@ -30,4 +30,3 @@ Developed deep learning models to estimate human breathing rate from CSI data us
 **Youssef Elshenawy**  
 📧 [youssefwaleedelshenawy@gmail.com](mailto:youssefwaleedelshenawy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/youssef-elshenawy-a04771260/)  
-🔗 [GitHub](https://github.com/youssefwaleed)
