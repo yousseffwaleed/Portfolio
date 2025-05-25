@@ -21,7 +21,7 @@ This project explores image-based mushroom classification using various deep lea
 Developed deep learning models to estimate human breathing rate from CSI data using software-defined radios. Explored 1D/2D CNNs, LSTMs, and hybrid models for signal classification.
 
 📁 **Tech Stack**: Python, TensorFlow, SDRs, Scikit-learn  
-🔗 [View Project on GitHub](https://github.com/youssefwaleed/CapstoneProject)
+🔗 [View Project on GitHub]([https://github.com/youssefwaleed/CapstoneProject](https://github.com/yousseffwaleed/CapstoneProject))
 
 ---
 
