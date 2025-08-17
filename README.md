@@ -30,7 +30,7 @@ Developed deep learning models to estimate human breathing rate from CSI data us
 Built a land-use classification pipeline using the **UCMerced dataset** (remote sensing aerial images). Applied **transfer learning with MobileNetV2** alongside data augmentation and fine-tuning to classify multiple land use categories. Evaluated performance with confusion matrices and detailed classification reports.  
 
 📁 **Tech Stack**: TensorFlow, Keras, Scikit-learn, Matplotlib, Google Colab  
-🔗 [View Project on GitHub](#) <[**!-- Replace # with your repo link --**](https://github.com/yousseffwaleed/UCMerced-LandUse-Classification/tree/main)>
+🔗 [View Project on GitHub](#) <(https://github.com/yousseffwaleed/UCMerced-LandUse-Classification/tree/main)>
 
 ---
 
